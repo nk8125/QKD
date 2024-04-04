@@ -1,0 +1,5 @@
+name,pokedex id,height,weight,type,secundary type,hp,attack,defense,sp atk,sp def,speed
+bulbasaur,1,7,69,grass,poison,45,49,49,65,65,45
+ivysaur,2,10,130,grass,poison,60,62,63,80,80,60
+venusaur,3,20,1000,grass,poison,80,82,83,100,100,80
+charmander,4,6,85,fire,None,39,52,43,60,50,65
